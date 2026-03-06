@@ -1,4 +1,16 @@
-# [Liberu CRM](https://www.liberu.co.uk) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+# [Liberu CRM](https://www.liberusoftware.com) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+
+### Connect with Us
+
+<a href="https://wa.me/+441793200950"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.youtube.com/@liberusoftware"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.facebook.com/liberusoftware"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/liberusoftware"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.x.com/liberusoftware"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.linkedin.com/company/liberugroup"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.github.com/liberusoftware"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
+### Technologies
 
 ![](https://img.shields.io/badge/PHP-8.4-informational?style=flat&logo=php&color=4f5b93)
 ![](https://img.shields.io/badge/Laravel-12-informational?style=flat&logo=laravel&color=ef3b2d)
@@ -9,21 +21,17 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-
-# [Managed web hosting for our application packages](https://liberu.co.uk)
-
-
 ## Description
-Welcome to Liberu CRM, our innovative open-source project that reimagines Contact Relationship Management with the power of Laravel 11, PHP 8.3, Livewire 3, and Filament 3. Liberu CRM isn't just a tool for managing contacts; it's a dynamic platform designed to foster meaningful connections, streamline interactions, and elevate the way relationships are nurtured and maintained.
+
+Welcome to [Liberu CRM](https://www.liberusoftware.com), our innovative open-source project that reimagines Contact Relationship Management with the power of Laravel 12, PHP 8.4, Livewire 3, and Filament 4. Liberu CRM isn't just a tool for managing contacts; it's a dynamic platform designed to foster meaningful connections, streamline interactions, and elevate the way relationships are nurtured and maintained.
 
 **Key Features:**
 
 1. **Seamless Contact Management:** Liberu CRM offers a user-friendly interface for efficient contact management. From customer profiles to lead tracking, our project ensures that every interaction is captured, organized, and easily accessible.
 
-2. **Dynamic Livewire Interactions:** Built on Laravel 11 and PHP 8.3, Liberu CRM integrates Livewire 3 for dynamic and real-time interactions. Enhance your communication and collaboration by updating contact information, notes, and activities in real time.
+2. **Dynamic Livewire Interactions:** Built on Laravel 12 and PHP 8.4, Liberu CRM integrates Livewire 3 for dynamic and real-time interactions. Enhance your communication and collaboration by updating contact information, notes, and activities in real time.
 
-3. **Efficient Admin Panel:** Filament 3, our admin panel built on Laravel, provides administrators with powerful tools to manage users, customize settings, and oversee the entire contact ecosystem. Ensure that your CRM operates seamlessly, adapting to your organization's evolving needs.
+3. **Efficient Admin Panel:** Filament 4, our admin panel built on Laravel, provides administrators with powerful tools to manage users, customize settings, and oversee the entire contact ecosystem. Ensure that your CRM operates seamlessly, adapting to your organization's evolving needs.
 
 4. **Customizable Forms:** Tailor contact forms to capture specific information relevant to your business or industry. Liberu CRM empowers users to create custom forms that align with their unique requirements, ensuring comprehensive data collection.
 
@@ -31,7 +39,29 @@ Welcome to Liberu CRM, our innovative open-source project that reimagines Contac
 
 Liberu CRM is open source, released under the permissive MIT license. We invite businesses, developers, and organizations to contribute to the evolution of Contact Relationship Management. Together, let's redefine the standards of relationship-building and create a platform that adapts to the unique needs of every user.
 
-Welcome to Liberu CRM – where innovation meets connection, and the management of meaningful relationships is at the forefront. Join us on this journey to transform the way we cultivate and nurture connections in the digital age.
+## Technologies Used
+
+Liberu CRM is built with a modern, robust technology stack:
+
+- **[PHP 8.4](https://www.php.net/)** – Powerful, modern server-side scripting language
+- **[Laravel 12](https://laravel.com/)** – Elegant PHP web application framework
+- **[Filament 4](https://filamentphp.com/)** – Beautiful admin panel and form builder for Laravel
+- **[Livewire 3](https://livewire.laravel.com/)** – Full-stack framework for dynamic Laravel interfaces
+- **[Laravel Jetstream](https://jetstream.laravel.com/)** – Application scaffolding with authentication & teams
+- **[Laravel Socialite](https://laravel.com/docs/socialite)** – OAuth authentication (GitHub, Google, and more)
+- **[JavaScript (ES2020)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** – Modern JavaScript for interactive UI
+- **[MySQL](https://www.mysql.com/)** – Reliable relational database management system
+- **[Docker](https://www.docker.com/)** – Containerisation for consistent development and deployment
+
+Developed and maintained by [Liberu Software](https://www.liberusoftware.com) – building innovative, open-source solutions for businesses worldwide.
+
+## Repository Status
+
+| Repository | Release | Install | Tests | Docker | Coverage |
+|---|---|---|---|---|---|
+| [crm-laravel](https://github.com/liberu-crm/crm-laravel) | [![Release](https://img.shields.io/github/release/liberu-crm/crm-laravel.svg)](https://github.com/liberu-crm/crm-laravel/releases) | [![Install](https://github.com/liberu-crm/crm-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-crm/crm-laravel/actions/workflows/install.yml) | [![Tests](https://github.com/liberu-crm/crm-laravel/actions/workflows/tests.yml/badge.svg)](https://github.com/liberu-crm/crm-laravel/actions/workflows/tests.yml) | [![Docker](https://github.com/liberu-crm/crm-laravel/actions/workflows/main.yml/badge.svg)](https://github.com/liberu-crm/crm-laravel/actions/workflows/main.yml) | [![Coverage](https://codecov.io/gh/liberu-crm/crm-laravel/branch/main/graph/badge.svg)](https://codecov.io/gh/liberu-crm/crm-laravel) |
+| [crm-old](https://github.com/liberu-crm/crm-old) | [![Release](https://img.shields.io/github/release/liberu-crm/crm-old.svg)](https://github.com/liberu-crm/crm-old/releases) | – | – | – | – |
+| [crm-nuxt](https://github.com/liberu-crm/crm-nuxt) | [![Release](https://img.shields.io/github/release/liberu-crm/crm-nuxt.svg)](https://github.com/liberu-crm/crm-nuxt/releases) | – | – | – | – |
 
 ## Our Projects
 
@@ -49,13 +79,21 @@ Welcome to Liberu CRM – where innovation meets connection, and the management 
 * https://github.com/liberu-real-estate/real-estate-laravel
 * https://github.com/liberu-social-network/social-network-laravel
 
-### Licensed under MIT, use for any personal or commercial project.
+## Support Our Work
+
+Liberu CRM is free and open-source software. You can support our continued development by using our paid services:
+
+- 🌐 **[Liberu Group](https://www.liberugroup.com)** – Our parent company offering a wide range of digital solutions
+- 🛠️ **[Liberu Services](https://www.liberuservices.com)** – Professional services, consulting, and custom development
+- ☁️ **[Liberu Hosting](https://www.liberuhosting.com)** – Managed web hosting optimised for our application packages
+
+Using our paid services directly supports our free and open-source software development work, helping us maintain and improve these projects for the entire community.
 
 ### Contributions
 
 We warmly welcome new contributions from the community! We believe in the power of collaboration and appreciate any involvement you'd like to have in improving our project. Whether you prefer submitting pull requests with code enhancements or raising issues to help us identify areas of improvement, we value your participation.
 
-If you have code changes or feature enhancements to propose, pull requests are a fantastic way to share your ideas with us. We encourage you to fork the project, make the necessary modifications, and submit a pull request for our review. Our team will diligently review your changes and work together with you to ensure the highest quality outcome.
+If you have code changes or feature enhancements to propose, **pull requests are welcome**! We encourage you to fork the project, make the necessary modifications, and submit a pull request for our review. Our team will diligently review your changes and work together with you to ensure the highest quality outcome.
 
 However, we understand that not everyone is comfortable with submitting code directly. If you come across any issues or have suggestions for improvement, we greatly appreciate your input. By raising an issue, you provide valuable insights that help us identify and address potential problems or opportunities for growth.
 
@@ -66,5 +104,13 @@ We look forward to your involvement, and together, we can create a vibrant and t
 
 ### License
 
-This project is licensed under the MIT license, granting you the freedom to utilize it for both personal and commercial projects. The MIT license ensures that you have the flexibility to adapt, modify, and distribute the project as per your needs. Feel free to incorporate it into your own ventures, whether they are personal endeavors or part of a larger commercial undertaking. The permissive nature of the MIT license empowers you to leverage this project without any unnecessary restrictions. Enjoy the benefits of this open and accessible license as you embark on your creative and entrepreneurial pursuits.
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**, granting you the freedom to utilize it for both personal and commercial projects. The MIT license ensures that you have the flexibility to adapt, modify, and distribute the project as per your needs. Key benefits include:
+
+- ✅ **Free to use** for personal and commercial projects
+- ✅ **Freedom to modify** the source code to suit your needs
+- ✅ **Freedom to distribute** your own versions
+- ✅ **No restrictions** on proprietary use or sublicensing
+- ✅ **Simple and permissive** – just keep the original copyright notice
+
+Enjoy the benefits of this open and accessible license as you embark on your creative and entrepreneurial pursuits.
 <!--/h-->
